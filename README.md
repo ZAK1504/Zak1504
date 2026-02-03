@@ -248,15 +248,50 @@ const zakiel = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Contribution Snake Animation -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="35" /> &nbsp;Contribution Graph
+<!-- Retro Arcade Stats Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Game" width="35" /> &nbsp;Player Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+
+<!-- Retro Arcade Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=INSERT+COIN+TO+PLAY;PLAYER+1+READY...;LOADING+STATS..." alt="Arcade"/>
+
+<!-- 3D Isometric Contribution Calendar -->
+<a href="https://github.com/ZAK1504">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZAK1504&theme=radical" alt="Contribution Graph"/>
+</a>
+
+<!-- Retro Terminal Style Stats -->
+```css
+╔══════════════════════════════════════════════════════════════════╗
+║  ██████╗  █████╗ ███╗   ███╗███████╗    ██████╗ ██╗   ██╗███████╗██████╗  ║
+║ ██╔════╝ ██╔══██╗████╗ ████║██╔════╝   ██╔═══██╗██║   ██║██╔════╝██╔══██╗ ║
+║ ██║  ███╗███████║██╔████╔██║█████╗     ██║   ██║██║   ██║█████╗  ██████╔╝ ║
+║ ██║   ██║██╔══██║██║╚██╔╝██║██╔══╝     ██║   ██║╚██╗ ██╔╝██╔══╝  ██╔══██╗ ║
+║ ╚██████╔╝██║  ██║██║ ╚═╝ ██║███████╗   ╚██████╔╝ ╚████╔╝ ███████╗██║  ██║ ║
+║  ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝    ╚═════╝   ╚═══╝  ╚══════╝╚═╝  ╚═╝ ║
+╠══════════════════════════════════════════════════════════════════╣
+║  PLAYER: ZAK1504          RANK: ELITE DEVELOPER                  ║
+║  CLASS: Full-Stack Wizard  MODE: HARDCORE                        ║
+║  ACHIEVEMENTS: 🏆 Pull Shark • 🎯 Quickdraw • ⭐ NASA Hackathon   ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<!-- Pac-Man Style Divider -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/pac-man.svg" width="100%"/>
+
+<!-- Stats Cards in Gaming Theme -->
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZAK1504&theme=radical" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZAK1504&theme=radical&utcOffset=5.5" height="160"/>
+</p>
+
+<!-- Commits per Language -->
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZAK1504&theme=radical" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZAK1504&theme=radical" height="160"/>
+</p>
+
 </div>
 
 <!-- Animated Divider -->
