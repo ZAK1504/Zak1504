@@ -34,13 +34,10 @@ const zakiel = {
     pronouns: "he" | "him",
     location: "Building in the Metaverse 🌐",
     currentFocus: [
-        "🔐 DeFi Security Systems",
-        "🚀 NASA Space Applications", 
         "🤖 AI-Powered Tools",
         "📊 Data Intelligence Platforms"
     ],
     achievements: ["🎯 NASA Space Apps Hackathon"],
-    funFact: "I build systems that protect billions in DeFi! 💰"
 };
 ```
 
@@ -225,8 +222,6 @@ const zakiel = {
 <div align="center">
 
 ```text
-🔐 DeFi Security & Web3        ████████████████████░   95%
-🌌 Space Tech & Simulations    ██████████████████░░░   85%
 🤖 AI/ML & GenAI               █████████████████░░░░   80%
 📊 Data Engineering            ████████████████░░░░░   75%
 🎮 Game Development            ██████████████░░░░░░░   70%
